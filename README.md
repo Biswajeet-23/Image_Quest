@@ -1,4 +1,3 @@
-
 # Image Quest
 
 ## Overview
@@ -44,4 +43,4 @@ Follow these steps to run the Image Search App on your local machine:
 
 ## License:
 
-- This project is licensed under the Apache License. See the [LICENSE]() file for details.
+- This project is licensed under the Apache License. See the [LICENSE](https://github.com/Biswajeet-23/Image_Quest/blob/master/LICENSE) file for details.
